@@ -7,7 +7,7 @@ module.exports = {
     extend: {
       fontFamily: {
         Righteous: ["Righteous", "sans-serif"],
-        BebasNeue: ["Bebas Neue", "sans-serif"],
+        BebasNeue: ['BebasNeue'],
         inter: ["Inter", "sans-serif"],
       },
       backgroundColor:{
